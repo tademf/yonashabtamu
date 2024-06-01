@@ -1,0 +1,231 @@
+.outer{
+    margin-top:0px;
+    padding:0px;
+    background-color: rgb(35, 27, 153);
+    position: fixed;
+    width: 100%;
+    margin-bottom: 0px;
+
+}
+.outer ul{
+    display: flex;
+    list-style: none;
+    padding-left:30px;
+   
+    padding-top: 20px;
+    
+
+}
+ ul li a{
+    padding:0px;
+   text-align: center;
+   margin-left: 300px;
+   text-decoration: none;
+   color: white;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+   padding: 20PX;
+   font-size: 30PX;
+
+}
+body{
+    
+    background-image: url('yoni.jpg');
+}
+.text{
+  
+    
+    margin-bottom: 0px;
+    display: inline;
+    padding-bottom: 0PX;
+    font-size: 30PX;
+    margin-left: 60PX;
+   
+   
+}
+#ONE{
+    color: rgb(239, 243, 9);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 90PX;
+    padding-left: 90PX;
+}
+#two{
+    color: rgb(176, 216, 29);
+    padding-left: 120px;
+
+}
+#three{
+    color: rgb(231, 141, 24);
+    padding-left: 170px;
+
+}
+#is{
+    color: rgb(197, 32, 202);
+    padding-left: 165px;
+    font-size: 150px;
+
+}
+.image {
+  margin-left: 350px;
+  margin-top: 200px;
+}
+.portfolio{
+    align-items: center;
+   
+   margin-top: 0px;
+   padding-top: 0px;
+   margin-bottom: 0px;
+   padding-bottom: 0PX;
+   margin-left: 800PX;
+
+ 
+
+}  
+.T{
+    color: chartreuse;
+ font-size: 80px;
+
+}
+.S{
+    color: rgb(221, 172, 10);
+    font-size: 60px;
+}
+.E{
+    color: #85ec0f;
+    font-size: 80px;
+}
+.foto img{
+   
+  
+  margin-left: 0px;
+  padding-bottom: 0;
+
+
+    
+}
+.laptop img{
+    margin-left: 0px;
+    margin-top: 170px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    width: 100%;
+}
+.text1{
+    color: aliceblue;
+    margin-left: 30px;
+    font-size: 30px;
+    font-family:sanserif;
+    width: 100%;
+
+}
+.heading{
+    text-align: center;
+    border: solid;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: rgb(140, 121, 158);
+    color: gold;
+}
+#about{
+    background-image: url('yt.webp');
+   
+
+}
+
+#about .imageme .text1 .text2{
+    width: 33%;
+
+   
+}
+.sec{
+    display: flex;
+}
+.imageme{
+    padding-right: 0;
+    margin-right: 0;
+    padding-left: 100px;
+    width: 100%;
+}
+.text2{
+    color: white;
+    font-size: 30px;
+    width: 100%;
+    padding-left: 0%;
+}
+ul li a:hover{
+    color: rgb(26, 158, 96);
+}
+#contact{
+background-color: aliceblue;
+
+}
+
+
+
+#contact{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #645a5a;
+    background-size: cover;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #166e91;
+    background: transparent;
+    border-style: none;
+  }
+  
+  .H1 {
+    text-align: center;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input[type="email"],
+  input[type="tel"],
+  input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  input[type="submit"] {
+    background-color: #4caf50;
+    color: rgb(23, 128, 214);
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #434b43;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
